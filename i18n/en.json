@@ -151,6 +151,11 @@
           "itemEnableTvShows": "Enable TV Shows notifications",
           "itemOnlyNewEpisodeOnUpToDateShows": "Be only notified for new aired episodes if I am up to date"
         },
+        "music-controls": {
+          "header": "Music Controls Notification",
+          "enabled": "Enable",
+          "swipeToClose": "Swipe to close"
+        },
         "trakt": {
           "totalWatchedMovies": "Total movies watched",
           "totalWatchedEpisodes": "Total episodes watched",

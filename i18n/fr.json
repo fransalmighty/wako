@@ -151,6 +151,11 @@
           "itemEnableTvShows": "Activer les notifications des séries TV",
           "itemOnlyNewEpisodeOnUpToDateShows": "Etre averti uniquement pour les nouveaux épisodes qui sortent si je suis à jour sur la série"
         },
+        "music-controls": {
+          "header": "Music Controls Notification",
+          "enabled": "Activer",
+          "swipeToClose": "Glisser pour fermer"
+        },
         "trakt": {
           "totalWatchedMovies": "Nombre de films regardés",
           "totalWatchedEpisodes": "Nombre d'épisodes regardés",
