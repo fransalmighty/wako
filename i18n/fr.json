@@ -88,7 +88,8 @@
           "watch-list": "Watch List",
           "history": "Historique",
           "progress": "En Cours",
-          "completed": "Terminé"
+          "completed": "Terminé",
+          "on-hold": "En Pause"
         },
         "pop-over": {
           "explore": "Explorer",
@@ -110,7 +111,8 @@
         "year": "Année",
         "apply": "Appliquer",
         "reset": "Réinitialiser"
-      }
+      },
+      "not-on-tracking-platform": "Ce film n'est pas disponible sur votre platform de tracking"
     },
     "show": {
       "search-list": {
@@ -139,6 +141,11 @@
         "addons": {
           "header": "Add-ons",
           "item": "Configurer / Installer Add-ons"
+        },
+        "movies": {
+          "header": "Films",
+          "which-provider": "Choisissez votre fournisseur lors de la recherche",
+          "default": "défaut"
         },
         "filer": {
           "header": "Fichiers",
