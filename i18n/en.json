@@ -476,7 +476,8 @@
     "no-settings-saved": "Unfortunately, you do not have any settings saved online yet.",
     "contribution-added": "Thanks for your contribution. You are now a Premium user. wako is going to restart",
     "backup-deleted": "Your backup has been deleted",
-    "exit-app": "Press back again to quit"
+    "exit-app": "Press back again to quit",
+    "playlist-add": "Added to your playlist"
   },
   "alerts": {
     "okButton": "Ok",
@@ -537,7 +538,8 @@
         "open-with": "Other App",
         "play-nplayer": "NPlayer",
         "play-infuse": "Infuse",
-        "cast": "Cast"
+        "cast": "Cast",
+        "add-to-playlist": "Add to your playlist"
       }
     }
   }

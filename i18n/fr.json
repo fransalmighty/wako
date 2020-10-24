@@ -473,7 +473,8 @@
     "no-settings-saved": "Malheureusement, vous n'avez pas encore de paramètres enregistrés en ligne",
     "contribution-added": "Merci pour votre contribution. Vous êtes maintenant un utilisateur Premium. wako va redémarrer",
     "backup-deleted": "Votre sauvegarde a été supprimée",
-    "exit-app": "Appuyez à nouveau pour quitter"
+    "exit-app": "Appuyez à nouveau pour quitter",
+    "playlist-add": "Ajouté à votre playlist"
   },
   "alerts": {
     "okButton": "Ok",
@@ -534,7 +535,8 @@
         "open-with": "Une autre App",
         "play-nplayer": "NPlayer",
         "play-infuse": "Infuse",
-        "cast": "Cast"
+        "cast": "Cast",
+        "add-to-playlist": "Ajouter à votre playlist"
       }
     }
   }
