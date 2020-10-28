@@ -39,39 +39,39 @@
     },
     "home": {
       "hi": "Hi",
-      "upNextToWatch": "Up Next To Watch",
-      "retry": "Retry",
-      "upToDate": "Nothing to watch, you're up to date :)",
-      "nothingToResume": "Nothing to resume :)",
+      "upNextToWatch": "Het Volgende Bekijken",
+      "retry": "Probeer Opnieuw",
+      "upToDate": "Niks om te bekijken, je bent up to date :)",
+      "nothingToResume": "Niets om te hervatten :)",
       "segment": {
-        "upNext": "Up Next",
-        "resume": "Resume",
-        "calendar": "Calendar"
+        "upNext": "Volgende",
+        "resume": "Hervatten",
+        "calendar": "Kalender"
       }
     },
     "login": {
-      "message": "Sign in or Sign up with Trakt to view your Movies/TV Shows"
+      "message": "Log in of meld u aan bij Trakt om uw films / tv-shows te bekijken"
     },
     "media": {
       "shared": {
         "detail": {
-          "imdbRating": "IMDb Rating:",
-          "viewOnIMDb": "View on IMDb",
-          "overview": "Overview",
-          "cast": "Cast",
-          "fullCast": "Full Cast & Crew",
-          "network": "Network",
-          "related": "More like this",
-          "release": "Release",
-          "runtime": "Runtime",
+          "imdbRating": "IMDb beoordeling:",
+          "viewOnIMDb": "Bekijk IMDb",
+          "overview": "Overzicht",
+          "cast": "Rolverdeling",
+          "fullCast": "Volledige Rolverdeling & Ploeg",
+          "network": "Netwerk",
+          "related": "Meer van dit",
+          "release": "Uitgave",
+          "runtime": "Looptijd",
           "status": "Status",
-          "certification": "Certification",
-          "originalTitle": "Original Title",
-          "originalLanguage": "Original Language",
+          "certification": "certificering",
+          "originalTitle": "Originele Titel",
+          "originalLanguage": "Originele Taal",
           "type": "Type",
-          "episodes": "Episodes",
-          "alternativeTitle": "Alternative Title",
-          "rating": "Rating",
+          "episodes": "Afleveringen",
+          "alternativeTitle": "Alternatieve Titel",
+          "rating": "Beoordeling",
           "genres": "Genres"
         },
         "search-list": {
