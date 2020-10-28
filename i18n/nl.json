@@ -278,30 +278,30 @@
       "title": "Add-on Details"
     },
     "movie-discover": {
-      "title": "Discover Movies",
-      "select-filters": "All filters are optional",
-      "searching": "Ongoing research, it may take some time",
-      "continue": "Continue",
-      "next-movie": "Next",
-      "no-movie": "No more movie to discover",
-      "restart": "Restart",
-      "min-rating": "Minimum rating",
-      "released-year": "Released from (year)"
+      "title": "Ontdek films",
+      "select-filters": "Alle filters zijn optioneel",
+      "searching": "Lopend onderzoek, het kan enige tijd duren",
+      "continue": "Doorgaan",
+      "next-movie": "Volgende",
+      "no-movie": "Geen film meer om te ontdekken",
+      "restart": "Herstarten",
+      "min-rating": "Minimale beoordeling",
+      "released-year": "Vrijgegeven vanaf (jaar)"
     },
     "filer": {
-      "title": "File Explorer",
-      "noCompatibleAddon": "You have no compatible Add-on installed yet"
+      "title": "Bestandsverkenner",
+      "noCompatibleAddon": "Je hebt nog geen compatibele add-on geïnstalleerd"
     },
     "filer-settings": {
-      "title": "Configure File Explorer",
+      "title": "Configureer Bestandsverkenner",
       "video-type": {
-        "header": "Transcoded Files",
-        "preferTranscoded": "Prefer transcoded files",
-        "preferTranscodedFilesChromecast": "Prefer transcoded files for Chromecast only",
-        "explainTranscoded": "Some service create transcoded files of your videos in a format that is compatible with almost every player including Chromecast that supports only few video format. It's better to enable it for Chromecast. Be aware that transcoded files may won't include other subtitles/audio tracks that original files could include"
+        "header": "Getranscodeerde bestanden",
+        "preferTranscoded": "Geef de voorkeur aan getranscodeerde bestanden",
+        "preferTranscodedFilesChromecast": "Geef de voorkeur aan getranscodeerde bestanden alleen voor Chromecast",
+        "explainTranscoded": "Sommige services maken getranscodeerde bestanden van uw video's in een indeling die compatibel is met bijna elke speler, inclusief Chromecast die slechts enkele video-indelingen ondersteunt. Het is beter om het in te schakelen voor Chromecast. Houd er rekening mee dat getranscodeerde bestanden mogelijk geen andere ondertitels / audiotracks bevatten die originele bestanden zouden kunnen bevatten"
       },
       "actions": {
-        "header": "Sort/Enable Open Actions"
+        "header": "Open acties sorteren / inschakelen"
       }
     }
   },
