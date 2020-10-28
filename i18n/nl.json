@@ -207,75 +207,75 @@
       }
     },
     "kodi-detection": {
-      "title": "Kodi detection",
-      "skip": "Skip",
-      "cardContent": "Kodi hosts are now being searched on your network.<br />Select one from the list to add it or press the \"SKIP\" button to add it manually.",
-      "detectedHosts": "Detected Hosts",
-      "detectHostHelper": "Not host found yet (could take some seconds). Don't forget to start Kodi<br><em>The Automatic detection works by using Zeroconf. If it’s not detecting your Kodi, then try enabling Zeroconf in Kodi by going to <b>Settings > Services > General and enable \"Announce services to other systems\"</b></em>",
-      "troubleShooting": "If you have any issue connecting wako to kodi, please read the documentation <b>here</b>"
+      "title": "Kodi detectie",
+      "skip": "Overslaan",
+      "cardContent": "Er wordt nu gezocht op Kodi-hosts in uw netwerk. <br /> Selecteer er 1 uit de lijst om deze toe te voegen of druk op de knop \ "OVERSLAAN \" om deze handmatig toe te voegen.",
+      "detectedHosts": "Gevonden Hosts",
+      "detectHostHelper": "Host nog niet gevonden (kan enkele seconden duren). Vergeet niet om Kodi te starten <br> <em> De automatische detectie werkt door Zeroconf te gebruiken. Als het je Kodi niet detecteert, probeer dan Zeroconf in Kodi in te schakelen door naar <b> Instellingen> Services> Algemeen te gaan en \ "Services aan andere systemen aankondigen in te schakelen \" </b> </em>",
+      "troubleShooting": "Als je een probleem hebt met het verbinden van wako met kodi, lees dan de documentatie <b>hier</b>"
     },
     "kodi-remote-list": {
       "title": "Kodi Hosts",
-      "savedHosts": "Saved Hosts",
-      "noHostsAdded": "No hosts have been added yet",
-      "defaultHost": "Default Host",
-      "addHost": "ADD",
+      "savedHosts": "Opgeslagen Hosts",
+      "noHostsAdded": "Er zijn nog geen hosts toegevoegd",
+      "defaultHost": "Standaard Host",
+      "addHost": "TOEVOEGEN",
       "linkVolumeHardwareTitle": "Volume",
-      "linkVolumeHardware": "Link hardware volume buttons to kodi's volume when playing"
+      "linkVolumeHardware": "Koppel hardwarevolumeknoppen aan het volume van Kodi tijdens het spelen"
     },
     "kodi-settings": {
-      "title": "Kodi Configure Host",
+      "title": "Kodi Host Configureren",
       "form": {
-        "name": "Name",
-        "ip": "Hostname/IP address",
-        "port": "Host Port",
-        "advanced": "Advanced settings",
-        "login": "Login (optional)",
-        "password": "Password (optional)",
-        "rpcPort": "JSON RPC port (optional)",
-        "status": "Connection status:",
-        "save": "Save Host",
-        "delete": "Delete Host"
+        "name": "Naam",
+        "ip": "Hostnaam/IP address",
+        "port": "Host Poort",
+        "advanced": "Geavanceerde instellingen",
+        "login": "Login (optioneel)",
+        "password": "Wachtwoord (optioneel)",
+        "rpcPort": "JSON RPC poort (optioneel)",
+        "status": "Connectie status:",
+        "save": "Host Opslaan",
+        "delete": "Host Verwijderen"
       }
     },
     "addons": {
       "title": "Add-ons",
-      "need-contribute": "Your trial period has ended, please contribute to use this feature",
+      "need-contribute": "Uw proefperiode is afgelopen. Draag bij om deze functie te gebruiken",
       "list-installed": {
-        "header": "Installed Add-ons"
+        "header": "geïnstalleerde Add-ons"
       },
       "list-available": {
-        "header": "Available Add-ons"
+        "header": "Beschikbare Add-ons"
       },
       "list-unknown-sources": {
-        "header": "Settings",
-        "item": "Unknown sources",
-        "third-party": "Add a third-party add-on",
-        "alert": "Third party add-ons will be given access to your data stored on wako. By allowing, you agree that you solely responsible for any loss of data and unwanted behaviour to your app. Please be aware that third party add-ons are neither developed nor endorsed by wako and that wako cannot be held responsible about what these add-ons do."
+        "header": "Instellingen",
+        "item": "Onbekende bronnen",
+        "third-party": "Voeg een add-on van derden toe",
+        "alert": "Add-ons van derden krijgen toegang tot uw gegevens die zijn opgeslagen op wako. Door toe te staan, gaat u ermee akkoord dat u als enige verantwoordelijk bent voor enig gegevensverlies en ongewenst gedrag van uw app. Houd er rekening mee dat add-ons van derden niet worden ontwikkeld of goedgekeurd door wako en dat wako niet verantwoordelijk kan worden gehouden voor wat deze add-ons doen."
       }
     },
     "addon": {
       "title": "Add-on {{addonName}}",
-      "detail": "Add-on Detail",
-      "settings": "Add-on Settings",
-      "changeLogs": "Change logs",
-      "install": "Install",
-      "uninstall": "Uninstall",
-      "thirdParty": "This add-on has not been created by wako. Using third party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located. wako cannot be held responsible",
+      "detail": "Add-on Details",
+      "settings": "Add-on Instellingen",
+      "changeLogs": "log Wijzigingen",
+      "install": "Installeer",
+      "uninstall": "Verwijderen",
+      "thirdParty": "Deze add-on is niet gemaakt door wako. Het gebruik van add-ons van derden is altijd onder uw verantwoordelijkheid en de geldende wetgeving van het rechtsgebied waarin u zich bevindt. wako kan niet verantwoordelijk worden gehouden",
       "uninstall-confirm": {
-        "header": "Uninstall this add-on",
-        "message": "Are you sure?"
+        "header": "Verwijder deze add-on",
+        "message": "Weet u het zeker?"
       },
       "install-confirm": {
-        "header": "Install this add-on",
-        "message": "Are you sure?"
+        "header": "Installeer deze add-on",
+        "message": "Weet u het zeker?"
       }
     },
     "addon-settings": {
-      "title": "Add-on Settings"
+      "title": "Add-on Instellingen"
     },
     "addon-detail": {
-      "title": "Add-on Detail"
+      "title": "Add-on Details"
     },
     "movie-discover": {
       "title": "Discover Movies",
