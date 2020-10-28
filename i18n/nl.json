@@ -487,59 +487,59 @@
     },
     "movie": {
       "random": {
-        "header": "Get a random movie for genres:"
+        "header": "Download een willekeurige film voor genres:"
       }
     },
     "addons": {
-      "customManifestUrl": "Third-party add-on URL",
-      "enterManifestUrl": "Enter the manifest URL"
+      "customManifestUrl": "Add-on-URL van derden",
+      "enterManifestUrl": "Voer de manifest-URL in"
     },
     "show": {
-      "remove": "Remove this show?",
-      "hidden-add": "Hide this show?",
-      "hidden-remove": "Restore this show?"
+      "remove": "Verwijder deze show?",
+      "hidden-add": "Verberg deze show?",
+      "hidden-remove": "Herstel deze show?"
     },
     "kodi": {
       "openUrl": "Open URL"
     },
     "restore-settings": {
-      "restore-header": "Restore settings",
-      "restore-date": "Do you want to restore your settings saved on {{date}}?"
+      "restore-header": "Instellingen herstellen",
+      "restore-date": "Wilt u uw instellingen herstellen die zijn opgeslagen op {{date}}?"
     },
     "delete-backup": {
-      "header": "Delete backup",
-      "restore-date": "Do you want to delete your backup saved on {{date}}?"
+      "header": "Verwijder backup",
+      "restore-date": "Wilt u uw back-up verwijderen die is opgeslagen op {{date}}?"
     },
     "clear-resume": {
-      "message": "Delete all items?"
+      "message": "Verwijder alle items?"
     }
   },
   "notifications": {
     "shows": {
-      "newEpisode": "New Episode: {{showTitle}} {{episodeCode}}"
+      "newEpisode": "Nieuwe aflevering: {{showTitle}} {{episodeCode}}"
     }
   },
   "actionSheets": {
-    "addToWatchList": "Add to your Watch List",
-    "removeFromWatchList": "Remove from your Watch List",
-    "addToCollection": "Add to your Collection",
-    "removeFromCollection": "Remove from your Collection",
-    "addToList": "Add to {{listName}}",
-    "removeFromList": "Remove from {{listName}}",
+    "addToWatchList": "Voeg toe aan uw Watch List",
+    "removeFromWatchList": "Verwijder van uw Watch List",
+    "addToCollection": "Voeg toe aan uw Collectie",
+    "removeFromCollection": "Verwijder van uw Collectie",
+    "addToList": "Voeg toe {{listName}}",
+    "removeFromList": "Verwijder van {{listName}}",
     "file-action": {
-      "openTitle": "Open with",
+      "openTitle": "Openen met",
       "actions": {
         "play-kodi": "Kodi",
         "play-browser": "Browser",
-        "copy-url": "Copy URL",
+        "copy-url": "Kopieer URL",
         "play-vlc": "VLC",
-        "download-vlc": "Download with VLC",
-        "share-url": "Share",
-        "open-with": "Other App",
+        "download-vlc": "Download met VLC",
+        "share-url": "Delen",
+        "open-with": "Andere App",
         "play-nplayer": "NPlayer",
         "play-infuse": "Infuse",
         "cast": "Cast",
-        "add-to-playlist": "Add to your playlist"
+        "add-to-playlist": "Voeg toe aan je playlist"
       }
     }
   }
