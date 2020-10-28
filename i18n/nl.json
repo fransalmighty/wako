@@ -442,7 +442,7 @@
       "markAsUnwatched": "gemarkeerd {{showTitle}} {{episodeCode}} als onbekeken {{trackers}}"
     },
     "kodi-remote-control": {
-      "warningWebsocket": "Warning - you are not connected to kodi through websocket service. You need to activate in Kodi this option:\nAllow remote control from applications on others systems\n\nGo to https://wako.app/kodi-remote-control for more information"
+      "warningWebsocket": "Waarschuwing - u bent niet verbonden met Kodi via de websocket-service. Je moet in Kodi deze optie activeren:\nToestaan besturing op afstand door applicaties op andere systemen\n\nGa naar https://wako.app/kodi-remote-control voor meer informatie"
     },
     "app": {
       "traktApiIssue1": "Trakt API - Failed to load resource, please try again later (error code {{errorStatus}})",
