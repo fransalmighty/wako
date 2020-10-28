@@ -75,88 +75,88 @@
           "genres": "Genres"
         },
         "search-list": {
-          "explore": "Explore",
-          "list": "List",
-          "toWatch": "To watch",
-          "watched": "Watched",
-          "by": "by",
-          "mostDailyPlayed": "Most Daily Played",
+          "explore": "Verkennen",
+          "list": "Lijst",
+          "toWatch": "Kijken",
+          "watched": "Bekeken",
+          "by": "bij",
+          "mostDailyPlayed": "Meest dagelijks gespeeld",
           "trending": "Trending",
-          "popular": "Popular",
-          "collection": "Collection",
-          "recommendations": "Recommendations",
-          "watch-list": "Watch list",
-          "history": "History",
-          "progress": "Progress",
-          "completed": "Completed",
-          "on-hold": "On Hold"
+          "popular": "Populair",
+          "collection": "Collectie",
+          "recommendations": "Aanbevelingen",
+          "watch-list": "Kijk lijst",
+          "history": "Historie",
+          "progress": "Vooruitgang",
+          "completed": "Compleet",
+          "on-hold": "In de wacht"
         },
         "pop-over": {
-          "explore": "Explore",
-          "hideWatched": "Hide Watched",
-          "pickList": "Pick a list",
+          "explore": "Verken",
+          "hideWatched": "Verberg bekeken",
+          "pickList": "Kies een lijst",
           "filters": "Filters"
         }
       }
     },
     "movie": {
       "search-list": {
-        "search": "Search a Movie"
+        "search": "Zoek een film"
       },
       "filter": {
         "title": "Filters",
-        "rating": "Rating",
+        "rating": "Beoordeling",
         "genre": "Genre",
-        "certification": "Certification",
-        "year": "Year",
-        "apply": "Apply",
+        "certification": "certificering",
+        "year": "Jaar",
+        "apply": "Toepassen",
         "reset": "Reset"
       },
-      "not-on-tracking-platform": "This movie is not present on your tracking platform"
+      "not-on-tracking-platform": "Deze film is niet aanwezig op uw trackingplatform"
     },
     "show": {
       "search-list": {
-        "search": "Search a TV Show",
-        "search-anime": "Search an Anime",
-        "myTvShows": "My TV Shows",
-        "myAnime": "My Anime"
+        "search": "Zoek een TV Show",
+        "search-anime": "Zoek een Anime",
+        "myTvShows": "Mijn TV Shows",
+        "myAnime": "Mijn Anime"
       },
       "show-detail": {
-        "seasons": "Seasons"
+        "seasons": "Seizoenen"
       },
       "episode-detail": {
-        "viewShow": "View Show"
+        "viewShow": "Bekijk Show"
       }
     },
     "settings": {
-      "title": "Settings",
+      "title": "Instellingen",
       "list": {
         "contribution": {
-          "header": "Contribution",
-          "item": "Contribute"
+          "header": "Contributie",
+          "item": "Contributie"
         },
         "kodi": {
-          "item": "Configure Hosts"
+          "item": "Instellen Hosts"
         },
         "addons": {
           "header": "Add-ons",
-          "item": "Configure / Install Add-ons"
+          "item": "Instellen / Installeer Add-ons"
         },
         "movies": {
-          "header": "Movies",
-          "which-provider": "Choose your provider on search",
-          "default": "default"
+          "header": "Films",
+          "which-provider": "Kies uw provider bij zoeken",
+          "default": "standaard"
         },
         "filer": {
-          "header": "File Explorer",
-          "item": "Configure",
-          "hideTab": "Hide File Explorer Tab"
+          "header": "Bestandsverkenner",
+          "item": "Configureren",
+          "hideTab": "Bestandsverkenner Verbergen"
         },
         "notification": {
-          "header": "Notifications",
-          "notificationNotGranted": "Notifications for wako are currently disabled. If you'd like to receive notifications please enable them in the Settings app",
-          "itemEnableTvShows": "Enable TV Shows notifications",
-          "itemOnlyNewEpisodeOnUpToDateShows": "Be only notified for new aired episodes if I am up to date"
+          "header": "Notificaties",
+          "notificationNotGranted": "Meldingen voor wako zijn momenteel uitgeschakeld. Als je meldingen wilt ontvangen, schakel ze dan bij instellingen in",
+          "itemEnableTvShows": "Meldingen voor tv-programma's inschakelen",
+          "itemOnlyNewEpisodeOnUpToDateShows": "Alleen op de hoogte worden gebracht van nieuwe uitgezonden afleveringen als ik op up to date ben"
         },
         "music-controls": {
           "header": "Music Controls Notification",
