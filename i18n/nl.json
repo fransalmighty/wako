@@ -445,45 +445,45 @@
       "warningWebsocket": "Waarschuwing - u bent niet verbonden met Kodi via de websocket-service. Je moet in Kodi deze optie activeren:\nToestaan besturing op afstand door applicaties op andere systemen\n\nGa naar https://wako.app/kodi-remote-control voor meer informatie"
     },
     "app": {
-      "traktApiIssue1": "Trakt API - Failed to load resource, please try again later (error code {{errorStatus}})",
-      "traktApiServerOverloaded": "Trakt API - Server is overloaded. Please try again in 30s",
-      "traktNotConnectedAnyMore": "Trakt API - You're not connected to Trakt anymore, please reconnect",
-      "simklNotConnectedAnyMore": "Simkl API - You're not connected to SIMKL anymore, please reconnect",
-      "simklApiServerOverloaded": "Simkl API - Server is overloaded. Please try again in 30s",
-      "newVersionAvailable": "A new version of wako is available on the store",
-      "updateInstalled": "wako has been updated. Restart the app to enjoy update",
-      "noConnection": "Please check your internet connection"
+      "traktApiIssue1": "Trakt API - Kan bron niet laden, probeer het later opnieuw (error code {{errorStatus}})",
+      "traktApiServerOverloaded": "Trakt API - Server is overbelast. Probeer het over 30 seconden opnieuw",
+      "traktNotConnectedAnyMore": "Trakt API - U bent niet meer verbonden met Trakt, maak opnieuw verbinding",
+      "simklNotConnectedAnyMore": "Simkl API - U bent niet meer verbonden met SIMKL, maak opnieuw verbinding",
+      "simklApiServerOverloaded": "Simkl API - Server is overbelast. Probeer het over 30 seconden opnieuw",
+      "newVersionAvailable": "Een nieuwe versie van wako is beschikbaar in de Play-Store",
+      "updateInstalled": "wako is bijgewerkt. Start de app opnieuw om te genieten van de update",
+      "noConnection": "Controleer uw internetverbinding"
     },
     "settings": {
-      "cacheCleared": "Cache cleared"
+      "cacheCleared": "Cache geleegt"
     },
     "addons": {
-      "updated": "These add-ons have been updated:<br>{{updatedAddons}}<br><br>wako needs to be restarted.",
-      "updatedWithRestart": "These add-ons have been updated:<br>{{updatedAddons}}<br><br>wako is going to restart.",
-      "upToDate": "Add-ons are up to date"
+      "updated": "Deze add-ons zijn bijgewerkt:<br>{{updatedAddons}}<br><br>wako moet opnieuw worden gestart.",
+      "updatedWithRestart": "Deze add-ons zijn bijgewerkt:<br>{{updatedAddons}}<br><br>wako gaat opnieuw opstarten.",
+      "upToDate": "Add-ons zijn up to date"
     },
     "kodi": {
-      "hostUnreachable": "Your kodi host {{hostName}} is unreachable, please check your connection",
-      "noHost": "No host set for kodi"
+      "hostUnreachable": "Je Kodi-host {{hostName}} is onbereikbaar, controleer je verbinding",
+      "noHost": "Geen host ingesteld voor kodi"
     },
     "ads": {
-      "block": "Ouch, looks like you got a publicity blocker. Some parts of wako are only accessible to premium users (wako > settings > contribute) or by watching an ad"
+      "block": "Ouch, het lijkt erop dat je een publiciteitsblokkering hebt. Sommige delen van wako zijn alleen toegankelijk voor premium gebruikers (wako> instellingen> bijdragen) of door een advertentie te bekijken"
     },
     "trailer": {
-      "noTrailer": "No trailer found"
+      "noTrailer": "Geen trailer gevonden"
     },
-    "premium-only": "This is feature is only for premium users",
-    "no-settings-saved": "Unfortunately, you do not have any settings saved online yet.",
-    "contribution-added": "Thanks for your contribution. You are now a Premium user. wako is going to restart",
-    "backup-deleted": "Your backup has been deleted",
-    "exit-app": "Press back again to quit",
-    "playlist-add": "Added to your playlist"
+    "premium-only": "Deze functie is alleen voor premium gebruikers",
+    "no-settings-saved": "Helaas heb je nog geen instellingen online opgeslagen.",
+    "contribution-added": "Bedankt voor je bijdrage. U bent nu een Premium-gebruiker. wako gaat opnieuw opstarten",
+    "backup-deleted": "Je back-up is verwijderd",
+    "exit-app": "Druk nogmaals op back om af te sluiten",
+    "playlist-add": "Toegevoegd aan je afspeellijst"
   },
   "alerts": {
     "okButton": "Ok",
-    "cancelButton": "Cancel",
+    "cancelButton": "Annuleren",
     "app-contribution": {
-      "thanksMessage": "Thanks for contributing to wako."
+      "thanksMessage": "Bedankt voor je bijdrage aan wako."
     },
     "movie": {
       "random": {
