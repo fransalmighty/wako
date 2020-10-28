@@ -209,7 +209,7 @@
     "kodi-detection": {
       "title": "Kodi detectie",
       "skip": "Overslaan",
-      "cardContent": "Er wordt nu gezocht op Kodi-hosts in uw netwerk. <br /> Selecteer er 1 uit de lijst om deze toe te voegen of druk op de knop \ "OVERSLAAN \" om deze handmatig toe te voegen.",
+      "cardContent": "Er wordt nu gezocht op Kodi-hosts in uw netwerk. <br /> Selecteer er 1 uit de lijst om deze toe te voegen of druk op de knop \"OVERSLAAN\" om deze handmatig toe te voegen.",
       "detectedHosts": "Gevonden Hosts",
       "detectHostHelper": "Host nog niet gevonden (kan enkele seconden duren). Vergeet niet om Kodi te starten <br> <em> De automatische detectie werkt door Zeroconf te gebruiken. Als het je Kodi niet detecteert, probeer dan Zeroconf in Kodi in te schakelen door naar <b> Instellingen> Services> Algemeen te gaan en \ "Services aan andere systemen aankondigen in te schakelen \" </b> </em>",
       "troubleShooting": "Als je een probleem hebt met het verbinden van wako met kodi, lees dan de documentatie <b>hier</b>"
