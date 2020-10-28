@@ -308,61 +308,61 @@
   "modals": {
     "app-contribution": {
       "title": "Contributie",
-      "premium-user": "Congratulations, you are a Premium user.",
-      "explain1": "If you really enjoy wako, you can become a Premium user by choosing a product bellow. This will remove ads.<br>All devices logged to the same user will be affected",
-      "explainUsername": "Your wako ID is generated based on your Trakt or SIMKL ID. Your contribution is linked to your wako ID.<br>If you want to switch from Trakt to SIMKL or vice versa, remember to stay connected to the service (Trakt or SIMKL) you were connected to when you made your contribution to remain a Premium user.",
-      "explainTierText1": "\"Tier\" product is a lifetime contribution",
-      "explainTierText2": "There are different Tier products, they all have the same effect, only the price changes, it lets you choose what you think wako worth",
-      "trialExpired": "Your trial period has expired. To continue using the app, please choose a product below",
-      "iosTextSubscriptionMonthlyByProduct": "A {{ productPrice }}/month purchase will be applied to your iTunes account on confirmation.",
-      "iosTextSubscriptionYearlyByProduct": "A {{ productPrice }}/year purchase will be applied to your iTunes account on confirmation.",
-      "iosTextSubscriptionGeneral": "Subscriptions will automatically renew unless canceled at least 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our Terms & Conditions and Privacy Policy.",
-      "subscriptionHeader": "Auto Renewable subscriptions",
-      "consumableHeader": "Lifetime Contribution",
-      "otherSubscriptionHeader": "Other Contributions",
-      "manualSubscription": "Manual Contribution",
-      "ads24hRemoval": "Get rid of full screen ads for the next 24h by watching 2 rewards ads",
-      "ads6hRemoval": "Get rid of full screen ads for the next 6h by watching 1 reward ads",
-      "lifetime": "Lifetime contribution",
-      "username-header": "Your wako user ID",
-      "restore-button": "Restore Purchases"
+      "premium-user": "Gefeliciteerd, u bent een Premium-gebruiker.",
+      "explain1": "Als je echt van wako houdt, kun je een Premium-gebruiker worden door een product te kiezen. Hiermee worden advertenties verwijderd. <br> Alle apparaten die bij dezelfde gebruiker zijn aangemeld, worden beïnvloed",
+      "explainUsername": "Uw wako-ID wordt gegenereerd op basis van uw Trakt- of SIMKL-ID. Uw bijdrage is gekoppeld aan uw wako-ID. <br> Als u wilt overschakelen van Trakt naar SIMKL of vice versa, vergeet dan niet om verbonden te blijven met de dienst (Trakt of SIMKL) waarmee u verbonden was toen u uw bijdrage leverde om Premium gebruiker te blijven.",
+      "explainTierText1": "\"Tier\" het product is een levenslange bijdrage",
+      "explainTierText2": "Er zijn verschillende Tier-producten, ze hebben allemaal hetzelfde effect, alleen de prijs verandert, het laat je kiezen wat je denkt dat wako waard is",
+      "trialExpired": "Je proefperiode is verlopen. Kies hieronder een product om de app te blijven gebruiken",
+      "iosTextSubscriptionMonthlyByProduct": "Na bevestiging wordt een aankoop van {{productPrice}} / een maand toegepast op uw iTunes-account.",
+      "iosTextSubscriptionYearlyByProduct": "Een aankoop van {{productPrice}} /een jaar wordt bij bevestiging toegepast op uw iTunes-account.",
+      "iosTextSubscriptionGeneral": "Abonnementen worden automatisch verlengd, tenzij ze ten minste 24 uur voor het einde van de huidige periode worden opgezegd. U kunt op elk moment annuleren met uw iTunes-accountinstellingen. Elk ongebruikt deel van een gratis proefperiode wordt verbeurd als u een abonnement aanschaft. Raadpleeg onze Algemene voorwaarden en ons Privacybeleid voor meer informatie.",
+      "subscriptionHeader": "Automatisch verlengbare abonnementen",
+      "consumableHeader": "Levenslange bijdrage",
+      "otherSubscriptionHeader": "Andere bijdragen",
+      "manualSubscription": "Handmatige bijdrage",
+      "ads24hRemoval": "Weg met advertenties op volledig scherm voor de komende 24 uur door 2 beloningsadvertenties te bekijken",
+      "ads6hRemoval": "Weg met advertenties op volledig scherm voor de komende 6 uur door 1 beloningsadvertentie te bekijken",
+      "lifetime": "Levenslange bijdrage",
+      "username-header": "Uw wako-gebruikers-ID",
+      "restore-button": "Aankopen herstellen"
     },
     "app-outdated": {
-      "text": "Your app is outdated, you have to update it to continue"
+      "text": "Uw app is verouderd, u moet deze bijwerken om door te gaan"
     },
     "kodi-remote-control": {
-      "title": "Kodi Remote Control",
+      "title": "Kodi-afstandsbediening",
       "host": "Host",
-      "noHost.message": "No hosts have been added yet.",
-      "noHost.add": "Add one",
-      "hostUnreachable": "Host {{hostName}} is unreachable.",
-      "tryReconnect": "Try to reconnect"
+      "noHost.message": "Er zijn nog geen hosts toegevoegd.",
+      "noHost.add": "Voeg er 1 toe",
+      "hostUnreachable": "Host {{hostName}} is onbereikbaar.",
+      "tryReconnect": "Probeer opnieuw verbinding te maken"
     },
     "list-picker": {
-      "title": "Pick a list",
-      "search": "Search a list",
+      "title": "Kies een lijst",
+      "search": "Zoek een lijst",
       "sort": {
-        "label": "Sort by",
+        "label": "Sorteer op",
         "options": {
-          "default": "Default",
-          "rank": "Rank",
-          "recentlyAdded": "Recently Added",
-          "releasedDate": "Release Date"
+          "default": "Standaard",
+          "rank": "Rang",
+          "recentlyAdded": "Recent toegevoegd",
+          "releasedDate": "Release Datum"
         }
       },
-      "myLists": "My Lists",
-      "myLikedLists": "My Liked Lists",
-      "trendingLists": "Trending Lists",
-      "popularLists": "Popular Lists",
-      "likes": "likes",
-      "by": "by"
+      "myLists": "Mijn Lijsten",
+      "myLikedLists": "Mijn gelikete lijsten",
+      "trendingLists": "Trending lijsten",
+      "popularLists": "Populaire lijsten",
+      "likes": "vinden het leuk",
+      "by": "bij"
     },
     "install-addons": {
-      "title": "You don't have any add-ons installed",
-      "button": "Let's install some"
+      "title": "U heeft geen add-ons geïnstalleerd",
+      "button": "Laten we wat installeren"
     },
     "signIn": {
-      "explain": "You can browse information without a Trakt/SIMKL account, however you will need one to sync and update your watch history, watch list, etc. Using a Trakt/SIMKL account means that all your history is available on all your devices with Trakt/SIMKL access, including available on Trakt.tv/SIMKL.com on the web."
+      "explain": "U kunt door informatie bladeren zonder een Trakt / SIMKL-account, maar u hebt er een nodig om uw kijkgeschiedenis, kijklijst enz. Te synchroniseren en bij te werken. Als u een Trakt / SIMKL-account gebruikt, betekent dit dat al uw geschiedenis beschikbaar is op al uw apparaten met Trakt / SIMKL toegang, inclusief beschikbaar op Trakt.tv/SIMKL.com op internet."
     }
   },
   "pop-over": {
