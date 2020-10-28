@@ -307,7 +307,7 @@
   },
   "modals": {
     "app-contribution": {
-      "title": "Contribution",
+      "title": "Contributie",
       "premium-user": "Congratulations, you are a Premium user.",
       "explain1": "If you really enjoy wako, you can become a Premium user by choosing a product bellow. This will remove ads.<br>All devices logged to the same user will be affected",
       "explainUsername": "Your wako ID is generated based on your Trakt or SIMKL ID. Your contribution is linked to your wako ID.<br>If you want to switch from Trakt to SIMKL or vice versa, remember to stay connected to the service (Trakt or SIMKL) you were connected to when you made your contribution to remain a Premium user.",
