@@ -367,12 +367,12 @@
   },
   "pop-over": {
     "kodi-subtitles": {
-      "header": "Subtitles",
-      "enable": "Enable Subtitles",
-      "select": "Subtitle",
+      "header": "Ondertiteling",
+      "enable": "Schakel ondertitels in",
+      "select": "Ondertiteling",
       "download": "Download",
       "offset": "Offset",
-      "close": "Close"
+      "close": "Sluiten"
     },
     "kodi-audio": {
       "header": "Audio stream",
@@ -380,66 +380,66 @@
     }
   },
   "shared": {
-    "noResult": "No result",
-    "filtersApplied": "Filters have been applied",
-    "cancel": "Cancel",
+    "noResult": "Geen resultaat",
+    "filtersApplied": "Filters zijn toegepast",
+    "cancel": "annuleren",
     "sign-in": {
       "or": "or",
-      "trakt-button": "Sign in or Sign up with Trakt",
-      "simkl-button": "Sign in or Sign up with SIMKL"
+      "trakt-button": "Meld u aan met Trakt",
+      "simkl-button": "Meld u aan met SIMKL"
     },
     "misc": {
-      "aired": "Aired",
-      "airs": "Airs"
+      "aired": "Uitgezonden",
+      "airs": "Uitzenden"
     },
-    "pasteMediaTitle": "Paste Video Title",
+    "pasteMediaTitle": "Plak de videotitel",
     "install-addons": {
-      "text1": "Do you know you can install add-ons inside wako?",
-      "text2": "By installing add-ons you will add new feature to wako that fit your needs"
+      "text1": "Weet je dat je add-ons in wako kunt installeren?",
+      "text2": "Door add-ons te installeren, voegt u een nieuwe functie toe aan wako die aan uw behoeften voldoet"
     },
     "contribution": {
-      "remove-ads": "Contribute to wako to remove all ads",
-      "trial-expires-soon": "Your trial period will expire in {{days}} day(s), you won't be able to use this feature anymore unless you contribute",
-      "need-contribute-button": "Contribute to wako"
+      "remove-ads": "Draag bij aan wako om alle advertenties te verwijderen",
+      "trial-expires-soon": "Uw proefperiode loopt over {{days}} dag (en) af. U kunt deze functie niet meer gebruiken tenzij u bijdraagt",
+      "need-contribute-button": "Draag bij aan wako"
     },
     "calendar-pipe": {
-      "yesterday": "Yesterday",
-      "today": "Today",
-      "tomorrow": "Tomorrow",
-      "days-ago": "{{days}} days ago",
-      "in-days": "in {{days}} days"
+      "yesterday": "Gisteren",
+      "today": "Vandaag",
+      "tomorrow": "Morgen",
+      "days-ago": "{{days}} dagen geleden",
+      "in-days": "in {{days}} dagen"
     },
-    "onlyPremium": "This feature is only available for Premium users"
+    "onlyPremium": "Deze functie is alleen beschikbaar voor Premium-gebruikers"
   },
   "toasts": {
     "movie": {
-      "markAsWatched": "Marked {{movieTitle}} as watched on {{trackers}}",
-      "markAsUnwatched": "Marked {{movieTitle}} as unwatched on {{trackers}}",
-      "addedToWatchlist": "Added {{movieTitle}} to your Watch List on {{trackers}}",
-      "removedFromWatchlist": "Removed {{movieTitle}} from your Watch List on {{trackers}}",
-      "addedToCollection": "Added {{movieTitle}} to your Collection on {{trackers}}",
-      "removedFromCollection": "Removed {{movieTitle}} from your Collection on {{trackers}}",
-      "addedToUserList": "Added {{movieTitle}} to your list on {{trackers}}",
-      "removedFromUserList": "Removed {{movieTitle}} from your list on {{trackers}}",
-      "noRandomMovieFound": "No movie found for genres: {{genreList}}",
-      "notFoundOnTrakt": "Movie not found on trakt"
+      "markAsWatched": "Gemarkeerd {{movieTitle}} als bekeken {{trackers}}",
+      "markAsUnwatched": "Gemarkeerd {{movieTitle}} als onbekeken {{trackers}}",
+      "addedToWatchlist": "Toegevoegd {{movieTitle}} aan uw Watch List op {{trackers}}",
+      "removedFromWatchlist": "Verwijderd {{movieTitle}} van uw Watch List op {{trackers}}",
+      "addedToCollection": "Toegevoegd {{movieTitle}} aan uw Collectie op {{trackers}}",
+      "removedFromCollection": "Verwijderd {{movieTitle}} van uw Collectie op {{trackers}}",
+      "addedToUserList": "Toegevoegd {{movieTitle}} aan uw lijst op {{trackers}}",
+      "removedFromUserList": "Verwijderd {{movieTitle}} van uw lijst op {{trackers}}",
+      "noRandomMovieFound": "Geen film gevonden voor genres: {{genreList}}",
+      "notFoundOnTrakt": "Film niet gevonden op trakt"
     },
     "show": {
-      "addedToWatchlist": "Added {{showTitle}} to your Watch List on {{trackers}}",
-      "removedFromWatchlist": "Removed {{showTitle}} from your Watch List on {{trackers}}",
-      "addedToCollection": "Added {{showTitle}} to your Collection on {{trackers}}",
-      "removedFromCollection": "Removed {{showTitle}} from your Collection on {{trackers}}",
-      "addedToUserList": "Added {{showTitle}} to your list on {{trackers}}",
-      "removedFromUserList": "Removed {{showTitle}} from your list on {{trackers}}",
-      "notFoundOnTrakt": "Show not found on trakt"
+      "addedToWatchlist": "Toegevoegd {{showTitle}} aan uw Watch List op {{trackers}}",
+      "removedFromWatchlist": "Verwijderd {{showTitle}} van uw Watch List op {{trackers}}",
+      "addedToCollection": "Toegevoegd {{showTitle}} aan uw Collectie op {{trackers}}",
+      "removedFromCollection": "Verwijderd {{showTitle}} van uw Collectie op {{trackers}}",
+      "addedToUserList": "Toegevoegd {{showTitle}} aan uw lijst op {{trackers}}",
+      "removedFromUserList": "Verwijderd {{showTitle}} van uw lijst op {{trackers}}",
+      "notFoundOnTrakt": "Serie niet gevonden op trakt"
     },
     "season": {
-      "markAsWatched": "Marked {{showTitle}} season {{seasonNumber}} as watched on {{trackers}}",
-      "markAsUnwatched": "Marked {{showTitle}} season {{seasonNumber}} as unwatched on {{trackers}}"
+      "markAsWatched": "gemarkeerd {{showTitle}} seizoen {{seasonNumber}} als bekeken {{trackers}}",
+      "markAsUnwatched": "gemarkeerd {{showTitle}} seizoen {{seasonNumber}} als onbekeken {{trackers}}"
     },
     "episode": {
-      "markAsWatched": "Marked {{showTitle}} {{episodeCode}} as watched on {{trackers}}",
-      "markAsUnwatched": "Marked {{showTitle}} {{episodeCode}} as unwatched on {{trackers}}"
+      "markAsWatched": "gemarkeerd {{showTitle}} {{episodeCode}} als bekeken {{trackers}}",
+      "markAsUnwatched": "gemarkeerd {{showTitle}} {{episodeCode}} als onbekeken {{trackers}}"
     },
     "kodi-remote-control": {
       "warningWebsocket": "Warning - you are not connected to kodi through websocket service. You need to activate in Kodi this option:\nAllow remote control from applications on others systems\n\nGo to https://wako.app/kodi-remote-control for more information"
