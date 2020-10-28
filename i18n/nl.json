@@ -159,50 +159,50 @@
           "itemOnlyNewEpisodeOnUpToDateShows": "Alleen op de hoogte worden gebracht van nieuwe uitgezonden afleveringen als ik op up to date ben"
         },
         "music-controls": {
-          "header": "Music Controls Notification",
-          "enabled": "Enable",
-          "swipeToClose": "Swipe to close"
+          "header": "Melding van muziekbediening",
+          "enabled": "Inschakelen",
+          "swipeToClose": "Veeg om te sluiten"
         },
         "trakt": {
-          "totalWatchedMovies": "Total movies watched",
-          "totalWatchedEpisodes": "Total episodes watched",
-          "totalWatchedEpisodesAnime": "Total episodes (anime) watched",
+          "totalWatchedMovies": "Totaal aantal films bekeken",
+          "totalWatchedEpisodes": "Totaal aantal afleveringen bekeken",
+          "totalWatchedEpisodesAnime": "Totaal aantal afleveringen (anime) bekeken",
           "apiStatus": "Trakt API Status",
-          "logout": "Logout",
-          "signIn": "Sign in or Sign up with Trakt",
-          "markMovieAsWatchedAuto": "Mark movies as watched automatically",
-          "markEpisodeAsWatchedAuto": "Mark episodes as watched automatically",
-          "markAsWatchedAutoProgress": "Percentage to watch to mark the video as watched"
+          "logout": "Uitloggen",
+          "signIn": "Meld u aan met Trakt",
+          "markMovieAsWatchedAuto": "Markeer films automatisch als bekeken",
+          "markEpisodeAsWatchedAuto": "Markeer afleveringen automatisch als bekeken",
+          "markAsWatchedAutoProgress": "Percentage dat moet worden bekeken om de video als bekeken te markeren"
         },
         "simkl": {
-          "signIn": "Sign in or Sign up with SIMKL"
+          "signIn": "Meld u aan met SIMKL"
         },
         "tracker": {
           "header": "Tracker",
-          "movie": "Tracker for movies",
-          "show": "Tracker for TV shows",
-          "not-recommended-warning": "Please note that using Trakt + SIMKL on the same category is not recommended and may cause bugs."
+          "movie": "Tracker voor films",
+          "show": "Tracker voor tv shows",
+          "not-recommended-warning": "Houd er rekening mee dat het gebruik van Trakt + SIMKL in dezelfde categorie niet wordt aanbevolen en bugs kan veroorzaken."
         },
         "application": {
-          "header": "Application",
-          "darkMode": "Dark Mode",
-          "lang": "Language",
-          "review": "Review This App",
-          "share": "Share This App",
-          "documentation": "Documentation",
-          "joinDiscord": "Join us on Discord",
-          "joinTelegram": "Join us on Telegram",
-          "support": "Support",
-          "clearCache": "Clear Cache",
-          "privacyPolicy": "Privacy Policy",
-          "termsConditions": "Terms & Conditions ",
-          "appVersion": "App Version"
+          "header": "Applicatie",
+          "darkMode": "Donkere Mode",
+          "lang": "Taal",
+          "review": "Geef deze app een recentie",
+          "share": "Deel deze app",
+          "documentation": "Documentatie",
+          "joinDiscord": "wordt lid van ons op Discord",
+          "joinTelegram": "wordt lid van ons op Telegram",
+          "support": "Ondersteun",
+          "clearCache": "Cache Legen",
+          "privacyPolicy": "Privacybeleid",
+          "termsConditions": "Algemene voorwaarden ",
+          "appVersion": "App Versie"
         },
         "backup": {
-          "header": "Backup",
-          "enable-restore-settings": "Enable settings backup",
-          "restore-settings": "Restore settings from backup",
-          "delete": "Delete online backup"
+          "header": "Back-up",
+          "enable-restore-settings": "Schakel instellingen back-up in",
+          "restore-settings": "Herstel instellingen vanaf back-up",
+          "delete": "Verwijder online back-up"
         }
       }
     },
